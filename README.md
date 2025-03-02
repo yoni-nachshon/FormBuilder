@@ -1,3 +1,11 @@
+## How to Use
+
+# Importing Libraries and Files
+To import the required libraries and files, you can use the index.js file
+
+# Implementation
+To implement the code, you can use the Example.jsx file
+
 ## FormBuilder Component
 
 The `FormBuilder` component accepts the following props:
