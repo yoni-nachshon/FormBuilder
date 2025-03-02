@@ -1,9 +1,9 @@
 ## How to Use
 
-# Importing Libraries and Files
+### Importing Libraries and Files
 To import the required libraries and files, you can use the index.js file
 
-# Implementation
+### Implementation
 To implement the code, you can use the Example.jsx file
 
 ## FormBuilder Component
