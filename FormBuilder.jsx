@@ -1,5 +1,5 @@
 import { AutoCompletePicker, PeoplePicker } from "./peoplePicker";
-import { Editor } from "../Editor/Editor";
+import { Editor } from "./Editor";
 
 
 export const FormBuilder = ({ view, show, setShow, setState, form, props = {} }) => {
