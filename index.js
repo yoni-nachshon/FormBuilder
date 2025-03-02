@@ -22,7 +22,7 @@ function loadResources(resources, isLibrary = true) {
       }
   });
 }
-
+// Using Libraries via CDN
 const libraries = [
   'react.development.js'
   'react-dom.development.js'
